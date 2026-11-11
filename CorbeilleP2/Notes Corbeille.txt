@@ -1,0 +1,1 @@
+Les codes seront inclus dans ce fichier, mais la plupart ce fichier même sera utilisé. La plupart du contenu sera sur VS Code.
